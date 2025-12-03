@@ -1,0 +1,117 @@
+Courses: Step-by-step DFC Valuation
+Michael Ng
+
+My notes
+
+	
+6. Sensitivity Analysis
+17. The Purpose of Sensitivity Analysis
+Sensitive analysis:
+
+Understand the impact of changing certain variables within a model.
+
+WACC, terminal growth rate, forecast period financial assumptions: revenue growth, margin
+
+3:17
+5. Calculating the DCF Valuation
+16. Calculate Company Value and Implied Share Price
+Buffer zone: Implied share price *(1+/- 10%)
+
+2:01
+5. Calculating the DCF Valuation
+16. Calculate Company Value and Implied Share Price
+General rule of thumb: Present value of terminal value <= 80%.
+
+3:09
+4. DCF Assumptions
+13. The Methods to Determine the Terminal Value
+Exit multiple method is arbitrary. And the Gordon growth method is common.
+
+1:19
+4. DCF Assumptions
+13. The Methods to Determine the Terminal Value
+Gordon growth method
+
+Exit multiple method
+
+0:00
+4. DCF Assumptions
+11. Determining the Valuation Date and Stub Adjustment
+Determine the valuation date and stub adjustment
+
+3:03
+3. The WACC
+10. The Capital Asset Pricing Model (CAPM)
+Risk-free rate: use a longer-dated average
+
+1:00
+3. The WACC
+10. The Capital Asset Pricing Model (CAPM)
+Beta is how sensitive the stock is relative to the market
+
+1:25
+3. The WACC
+9. Determining the Target Capital Structure
+How do you determine the target percentage for debt and equity? Look back 10 years data then make a decision.
+
+0:35
+3. The WACC
+8. Determining the Cost of Debt & Applicable Tax Rate
+Get data on tax rate an annual report from https://www.sec.gov
+
+For cost of debt: interest expenses / total liabilities * (1 - tax rate)
+
+1:04
+3. The WACC
+7. Overview of the WACC
+WACC formular
+
+. cost of debt
+
+. debt & equity percent out of total capitals -> according to past 10-year historical financial data and set a target for them.
+
+
+
+5:55
+2. Company Financials
+6. Extracting Key P&L and Cash Flow Items
+Net working capital: current assets minus current liabilities
+
+0:29
+2. Company Financials
+5. Finding Forecast Financials with MarketScreener
+website to find forecast financials: https://www.marketscreener.com/
+
+1:48
+1. Core Principles of Valuation
+4. Which Companies Suit DCF Valuations?
+fast moving consumer
+
+0:21
+1. Core Principles of Valuation
+3. Free Cash Flow & Net Present Value
+Free cash flow: cash that is available to be distributed after major capital projects
+
+FCF = Operating cash flow - capex (Cash expenditure)
+
+Operating cash flow = EBIT - Taxes + D&A(Deprecated and amortization, non-cash item) - Change in net working capital
+
+Capex = investment in PP&E
+
+2:25
+1. Core Principles of Valuation
+2. The Time Value of Money & Discount Rates
+Discount rate: the rate at which cash flows are brought back or discounted back to today.
+
+0:45
+1. Core Principles of Valuation
+2. The Time Value of Money & Discount Rates
+Time value of money: a dollar today is worth more than the same dollar tomorrow.
+
+Terms:
+
+discount rates
+
+Net present value (NPV)
+
+Prevailing interest rates
